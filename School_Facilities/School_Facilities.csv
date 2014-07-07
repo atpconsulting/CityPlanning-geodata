@@ -1,0 +1,323 @@
+AUN,SCHOOL_NUM,LOCATION_I,FACIL_NAME,FACILNAME_,FACIL_ADDR,ZIPCODE,FACIL_TELE,ACTIVE,GRADE_LEVE,GRADE_ORG,ENROLLMENT,TYPE,TYPE_SPECI,LAT,LNG
+126515001.0,3726.0,6450,"Dobson, James","Dobson, James",4667 Umbria,19127 - 1929,487-4460,O,Elem/Middle,K-8,291,1.0,District,40.03135672688226,-75.23025868268391
+126515691.0,8252.0,7250,The Philadelphia CS for Arts and Sciences at HR Edmunds,Edmunds CS,1197 Haworth St.,19124 - 2505,537-2520,O,Elem/Middle,K-8,1273,2.0,Charter,40.02507649713986,-75.08721518642665
+0.0,0.0, ,Fairhill School,Fairhill Sch,601 W. Somerset St.,19133 - 2307, ,C, , ,0,4.0,District,39.9945111557894,-75.1421332745678
+126515001.0,5040.0,4460,"Duckrey, Tanner","Duckrey, Tanner",1501 W. Diamond St.,19121 - 2310,684-5066,O,Elem/Middle,K-8,431,1.0,District,39.985768991459736,-75.15891110801807
+126515001.0,7238.0,4100,"Beeber, Dimner","Beeber, Dimner",5925  Malvern Ave.,19131,581-5513,O,Middle School,6-8,816,1.0,District,39.986460601682545,-75.24206738551366
+126515001.0,3701.0,5400,Richmond,Richmond,2944 Belgrade St.,19134 - 4956,291-4718,O,Elementary School,K-5,720,1.0,District,39.9833990004373,-75.11042027926601
+0.0,0.0, ,"Reynolds, General John","Reynolds, General John",1429 N. 24th St.,19121 - 3801, ,C, , ,0,4.0,District,39.977617313746926,-75.17399153244835
+126515001.0,3615.0,1420,"Washington, Martha","Washington, Martha",728-62 N 44th St.,19104 - 1312,823-8203,O,Elem/Middle,K-8,369,1.0,District,39.96603411486585,-75.21137998306956
+126515001.0,3860.0,1020,West Philadelphia High School,West Phila HS,4901 Chestnut St,19139,471-2902,O,High School,9-12,1441,1.0,District,39.959010394559336,-75.21990786807412
+126515001.0,3642.0,2510,"Jackson, Andrew","Jackson, Andrew",1213 S. 12th St.,19147 - 4501,952-6223,O,Elem/Middle,K-8,346,1.0,District,39.93462189308283,-75.16328229450059
+0.0,0.0, ,"Bok, Edward (CTE)","Bok, Edward (CTE)",1901 South 9th St.,19148, ,C, , ,0,4.0,District,39.925187831772845,-75.16007467850905
+126515001.0,3859.0,2000,South Philadelphia,South Philadelphia,2101 South Broad St.,19148,952-6220,O,High School,9-12,1316,1.0,District,39.92361623761562,-75.16879695159389
+126515001.0,7813.0,6090,"Randolph, A. Philip AVT HS",Randolph HS,3101 Henry Ave,19129,227-4407,O,High School,9-12,441,1.0,District,40.009078515265024,-75.17947461812449
+126515001.0,6527.0,8030,"Washington, George High School","Washington, George HS",10175 Bustleton Ave.,19116,961-2001,O,High School,9-12,2519,1.0,District,40.10617020627821,-75.0253108932425
+126515001.0,5041.0,8180,"Hancock, John","Hancock, John",3700 Morrell Ave.,19114 - 1939,281-2604,O,Elementary School,K-5,479,1.0,District,40.0674308260187,-74.98899082999183
+126515001.0,7235.0,8380,"Farrell, Louis H.","Farrell, Louis H.",8300 Castor Ave.,19152 - 2725,728-5009,O,Elem/Middle,K-8,871,1.0,District,40.06656756562157,-75.05244643729915
+126515001.0,3762.0,8230,"Crossan, Kennedy C.","Crossan, Kennedy C.",7350 Bingham St.,19111 - 1301,728-5014,O,Elementary School,K-5,325,1.0,District,40.06216407408861,-75.0813839319726
+126515001.0,3724.0,7530,"Rowen, William","Rowen, William",6841 North 19th St.,19126 - 1534,276-5251,O,Elementary School,K-5,525,1.0,District,40.05877189753722,-75.1484151389446
+126515001.0,3824.0,6110,"Roosevelt, Theodore","Roosevelt, Theodore",430 E Washington Lane,19144,951-4170,O,Middle School,6-8,687,1.0,District,40.04812461833828,-75.17490186013488
+126515001.0,3844.0,6030,Roxborough High School,Roxborough,6498 Ridge Ave.,19128,487-4464,O,High School,9-12,1256,1.0,District,40.037239272247774,-75.22304728727073
+126515001.0,7521.0,5500,"Marshall, Thurgood","Marshall, Thurgood",5118-50 N. 6th St.,19120 - 3147,456-0170,O,Elem/Middle,K-8,689,1.0,District,40.03023389031261,-75.13450645133719
+126515001.0,6913.0,6230,Fitler Academics Plus,Fitler,140 West Seymour St.,19144 - 3667,951-4009,O,Elem/Middle,1-8,409,1.0,District,40.02613088216806,-75.16640815884983
+126515001.0,5124.0,5590,"Webster, John H.","Webster, John H.",3400 Frankford Ave.,19134 - 2651,537-2525,O,Elementary School,K-5,929,1.0,District,39.99625030756035,-75.10517975522475
+126515001.0,3703.0,5420,"Welsh, John","Welsh, John",2331 N 04th St.,19133 - 2933,291-4708,O,Elem/Middle,K-8,729,1.0,District,39.98639985881274,-75.13925271443337
+126515001.0,3662.0,4220,"Blaine, James G.","Blaine, James G.",3001-29 West Berks St.,19121 - 1801,684-5085,O,Elem/Middle,K-8,426,1.0,District,39.985404803364524,-75.18352087318247
+0.0,0.0,2310,"Boone, Daniel","Boone, Daniel",1435 N. 26th St.,19121,684-5080,O,Remedial Discipline,5-12,0,1.0,District,39.9780767531468,-75.17734345750867
+0.0,0.0, ,"Douglas, Stephen A.","Douglas, Stephen A.",2700 E Huntingdon St,19125, ,C, , ,0,4.0,District,39.97622671029722,-75.11717046433229
+126515001.0,3670.0,4320,"Lamberton, Robert Elementary School","Lamberton, Robert Elem",7501 Woodbine Ave.,19151 - 2709,581-5650,O,Elem/Middle,K-8,530,1.0,District,39.97567436423805,-75.26703140531346
+126515001.0,3694.0,5340,"Ludlow, James R.","Ludlow, James R.",500 W. Master St.,19122 - 4316,684-5060,O,Elem/Middle,K-8,323,1.0,District,39.97232344966834,-75.14586105455375
+126515001.0,6822.0,2290,Franklin Learning Center,Franklin Learning Ctr,616 N 15th St.,19130,684-5916,O,High School,9-12,693,1.0,District,39.965054005603996,-75.1633617562216
+126515001.0,6528.0,1300,"Harrington, Avery","Harrington, Avery",5300-34 Baltimore Ave.,19143 - 3117,471-2914,O,Elementary School,K-4,382,1.0,District,39.94746813833587,-75.23026138011492
+126515001.0,7226.0,2190,"Fell, D. Newlin","Fell, D. Newlin",900 W.  Oregon Ave.,19148 - 4504,952-6237,O,Elem/Middle,K-8,528,1.0,District,39.91535650468309,-75.16340765902768
+126515001.0,3760.0,8370,"Comly, Watson","Comly, Watson",1001  Byberry Road,19116 - 2120,961-2008,O,Elementary School,K-5,377,1.0,District,40.12092606173401,-75.00914408500849
+126515001.0,3765.0,8260,Fox Chase,Fox Chase,700 Rhawn St.,19111 - 2505,728-5016,O,Elementary School,K-5,338,1.0,District,40.07456437392751,-75.08054212338968
+126515001.0,3822.0,6100,"Leeds, Morris E.","Leeds, Morris E.",1100 E. Mt. Pleasant Ave.,19150,248-6602,O,Middle School,6-8,539,1.0,District,40.07143184911609,-75.17485190884047
+126515001.0,3855.0,8020,Northeast High School,Northeast HS,1601 Cottman Ave.,19111,728-5018,O,High School,9-12,3476,1.0,District,40.05619480258711,-75.07120115367353
+126515001.0,3713.0,6260,"Houston, Henry E.","Houston, Henry E.",7300 Rural Lane,19119 - 4108,248-6608,O,Elem/Middle,K-8,653,1.0,District,40.05952374398405,-75.19518120944917
+126515001.0,3738.0,7260,Ellwood,Ellwood,6701 N. 13th St.,19126 - 2848,276-5286,O,Elementary School,K-6,510,1.0,District,40.05513954377672,-75.13848287760294
+126515001.0,3712.0,6250,"Henry, Charles W.","Henry, Charles W.",601 Carpenter La.,19119 - 3405,951-4006,O,Elem/Middle,K-8,529,1.0,District,40.04626899457547,-75.19654553310839
+126517442.0,8251.0,7240,Universal Creighton Charter School,Universal Creighton Charter School,5401Tabor Ave,19120 - 3614,(215)537-2531,O,Elem/Middle,K-8,895,2.0,Charter,40.03431080480901,-75.10517949530647
+0.0,0.0, ,"Levering, William","Levering, William",6000 Ridge Ave.,19128 - 1643, ,C, , ,0,4.0,District,40.030925588559256,-75.2130020260769
+126515001.0,3797.0,7360,"Marshall, John","Marshall, John",4500 Griscom St.,19124 - 3653,537-2521,O,Elementary School,K-5,444,1.0,District,40.01476670988452,-75.0874213484221
+126515001.0,6534.0,7380,"McClure, Alexander K.","McClure, Alexander K.",4134 N  06th ST.,19140 - 2510,456-3001,O,Elementary School,K-4,625,1.0,District,40.0150846630546,-75.13761784091136
+126515001.0,7242.0,7110,"Harding, Warren G.","Harding, Warren G.",2000 Wakeling St.,19124,537-2528,O,Middle School,6-8,1299,1.0,District,40.012792653053516,-75.07437203140302
+126515001.0,3688.0,5260,"Elkin, Lewis","Elkin, Lewis","3199 ""D"" St.",19134 - 3199,291-4701,O,Elementary School,K-4,1130,1.0,District,39.99692395533379,-75.12091228545341
+126515001.0,3841.0,4060,"Dobbins, Murrell (CTE)","Dobbins, Murrell (CTE)",2100-50 W Lehigh Ave.,19132,227-4421,O,High School,9-12,1349,1.0,District,39.994863910795374,-75.16699470437521
+126515001.0,3842.0,5060,"Mastbaum, Jules E. (CTE)","Mastbaum, Jules E. (CTE)",3116 Frankford Ave,19134,291-4703,O,High School,9-12,1288,1.0,District,39.9928271623071,-75.11230007433012
+126515001.0,5125.0,5320,"Hartranft, John F.","Hartranft, John F.",720 West Cumberland St.,19133,684-5088,O,Elementary School,K-6,559,1.0,District,39.98924384177485,-75.14518965210075
+0.0,0.0, ,"Vaux, Roberts","Vaux, Roberts",2300  Master St.,19121, ,C, , ,0,4.0,District,39.976068500940386,-75.17426106644147
+0.0,0.0, ,University City,University City,3601 Filbert St.,19104, ,C, , ,0,4.0,District,39.95791750535127,-75.19575330424797
+0.0,0.0, ,"Drew, Charles R.","Drew, Charles R.",11-83 N 38th St.,19104 - 1101, ,C, , ,0,4.0,District,39.9586921121025,-75.19607961363232
+126515001.0,3601.0,1230,"Bryant, William Cullen","Bryant, William Cullen",6001 Cedar Ave.,19143 - 1133,471-2910,O,Elementary School,K-6,768,1.0,District,39.952954263413865,-75.24368814265694
+126515001.0,3635.0,2450,"Stanton, Edwin M.","Stanton, Edwin M.",1620 Christian St,19146 - 1908,875-3185,O,Elementary School,K-5,158,1.0,District,39.9403825507938,-75.17088593602163
+126515001.0,3602.0,1250,"Catherine, Joseph","Catherine, Joseph",6600 Chester Ave.,19142 - 1638,727-2155,O,Elementary School,K-4,585,1.0,District,39.927288695787915,-75.23979520670866
+126515001.0,3818.0,2160,"Furness, Horace","Furness, Horace",1900 S. 3rd St.,19148,952-6226,O,High School,9-12,1110,1.0,District,39.92377287691871,-75.15085324172067
+126515001.0,7706.0,1280,Penn Alexander Sch,Penn Alexander Sch,4201 Spruce Street,19104 - 4022,823-5465,O,Elem/Middle,K-8,476,1.0,District,39.95269648977414,-75.20812816834476
+126515001.0,4961.0,8440,"Loesche, William H.","Loesche, William H.",595 Tomlinson Rd.,19116 - 3332,961-2000,O,Elementary School,K-5,768,1.0,District,40.114191742384584,-75.02357633490296
+126515001.0,7072.0,8090,Swenson Arts and Technology Center (CTE),Swenson Arts & Tech Ctr,2750 Red Lion Rd.,19114,961-2009,O,High School,9-12,806,1.0,District,40.09204241921439,-75.01396876866218
+126515001.0,6824.0,8160,"Baldi, C. C. A.","Baldi, C. C. A.",8801 Verree Rd.,19115,961-2003,O,Middle School,6-8,1202,1.0,District,40.09125312887389,-75.05252886152124
+126515001.0,7230.0,7220,"Carnell, Laura H.","Carnell, Laura H.",6101 Summerdale Ave.,19111 - 5826,537-2527,O,Elem/Middle,K-8,1193,1.0,District,40.038902272479916,-75.08413285675151
+126515001.0,3758.0,8200,"Allen, Ethan","Allen, Ethan",3001 Robbins Avenue,19149 - 3138,537-2530,O,Elem/Middle,K-8,857,1.0,District,40.02972966906033,-75.06169061020515
+126515001.0,5123.0,5470,"Cramp, William","Cramp, William",3449 N. Masher St.,19140,291-4704,O,Elementary School,K-5,791,1.0,District,40.00246816300614,-75.12999733289243
+126515001.0,3687.0,5250,"Dunbar, Paul Laurence","Dunbar, Paul Laurence",1720-58 N 12th St.,19122 - 2513,684-5065,O,Elementary School,K-6,255,1.0,District,39.97912676747215,-75.15425853199513
+0.0,0.0, ,"Leidy, Joseph","Leidy, Joseph",1301 Belmont Ave.,19104 - 1042, ,C, , ,0,4.0,District,39.975033263876355,-75.21231386768885
+0.0,0.0, ,"Harrison, William","Harrison, William",1012 W Thompson St.,19122 - 4143, ,C, , ,0,4.0,District,39.972318076501224,-75.15363833148379
+126515001.0,3611.0,1360,"McMichael, Morton","McMichael, Morton",3543 Fairmount Ave.,19104 - 1906,823-8205,O,Elem/Middle,K-8,501,1.0,District,39.966598227134924,-75.1943104126935
+126515001.0,3808.0,2140,"Masterman, Julia R.","Masterman, Julia R.",1699 Spring Garden St.,19130,299-4661,O,Middle/High,5-12,758,1.0,District,39.963412604871955,-75.16576525741675
+126515001.0,3648.0,2340,"McCall, General George A.","McCall, General George A.",325 South 7th St.,19106 - 4139,351-7350,O,Elem/Middle,K-8,500,1.0,District,39.94453626829456,-75.15259918661131
+126515001.0,3776.0,2320,"Girard, Stephen","Girard, Stephen",1801 Snyder Ave,19145 - 2390,952-8554,O,Elementary School,K-4,621,1.0,District,39.92454125308575,-75.1770153210435
+126515001.0,3653.0,2630,"Sharswood, George","Sharswood, George",2300 S. 2nd St.,19148 - 4004,952-6212,O,Elem/Middle,K-8,394,1.0,District,39.91880180744721,-75.15102768463397
+126515001.0,3620.0,2240,"Bregy, F. Amedee","Bregy, F. Amedee",1700 Bigler St.,19145 - 4816,952-6218,O,Elem/Middle,K-8,420,1.0,District,39.914457528365396,-75.17672994050737
+126515001.0,4868.0,2390,"Morris, Robert","Morris, Robert",2600 W.Thompson St.,19121 - 4630,684-5087,O,Elementary School,K-6,520,1.0,District,39.97555078542339,-75.1787391340161
+126515001.0,3771.0,8360,Rhawnhurst,Rhawnhurst,7809 Castor Ave.,19152 - 3603,728-5013,O,Elementary School,K-5,438,1.0,District,40.05854679148042,-75.05775260425325
+126515001.0,6675.0,6060,"King, Martin Luther","King, Martin Luther",6100 Stenton Ave.,19138,276-5253,O,High School,9-12,1692,1.0,District,40.056435668387294,-75.16200154887761
+126515001.0,7229.0,6460,"Hill, J. E. / Sampson Freedman","Hill, J. E. / Sampson Freedman",620 Crittenden Sts.,19138,276-5260,O,Middle School,6-8,238,1.0,District,40.05641875581134,-75.16533202823368
+126515001.0,3835.0,7130,"Wagner, General Louis","Wagner, Gen. Louis",1701 Chelten Ave.,19141,276-5252,O,Middle School,6-8,790,1.0,District,40.051825168045205,-75.14773538265659
+126515001.0,3721.0,6330,"Pastorius, Francis","Pastorius, Francis",5650  Sprague St.,19138 - 1744,951-4008,O,Elementary School,K-5,656,1.0,District,40.04782319448757,-75.1615668382884
+126515001.0,7663.0,7370,Washington Grover Jr School,"Washington Jr., Grover",201 E Olney Avenue,19120,456-0422,O,Middle School,5-8,1208,1.0,District,40.03573640462177,-75.11767349935897
+126515001.0,7233.0,7460,"Ziegler, William H.","Ziegler, William H.",5935 Saul St.,19149 - 3446,537-2510,O,Elem/Middle,K-8,396,1.0,District,40.03007519261685,-75.07540537261116
+126515001.0,3745.0,7470,Bridesburg,Bridesburg,2824 Jenks St.,19137 - 2231,537-2515,O,Elementary School,K-5,410,1.0,District,40.000239948900955,-75.06674331432222
+126515001.0,6525.0,5230,"Conwell, Russell","Conwell, Russell",1829 Clearfield Avenue,19134,291-4722,O,Middle School,5-8,891,1.0,District,39.99444041091938,-75.11457505732538
+0.0,0.0, ,"Hill, Leslie Pinckney","Hill, Leslie Pinckney",3133 Ridge Ave.,19132 - 1196, ,C, , ,0,4.0,District,39.99117217748566,-75.18456958658844
+126515001.0,5188.0,4470,"Wright, Richard","Wright, Richard",2700 W. Dauphin St.,19132 - 4638,684-5076,O,Elementary School,K-5,420,1.0,District,39.98998274494973,-75.17768036586946
+0.0,0.0, ,"Ferguson, Joseph C.","Ferguson, Joseph C.",2000 N 7th St,19122 - 1302, ,C, , ,0,4.0,District,39.98212330082936,-75.14644243427055
+0.0,0.0, ,"Carroll, Charles","Carroll, Charles",2700 E. Auburn St.,19134, ,C, , ,0,4.0,District,39.97944950458782,-75.11053805002724
+126515001.0,3697.0,5370,"Moffet, John","Moffet, John",127 W Oxford St.,19122,291-4721,O,Elementary School,K-5,453,1.0,District,39.97487590927122,-75.13595019442452
+126515001.0,7256.0,5200,"Adaire, Alexander","Adaire, Alexander",1300 E. Palmer St.,19125 - 3321,291-4712,O,Elem/Middle,K-8,485,1.0,District,39.9725858761483,-75.13004212924032
+126515001.0,3663.0,1490,"Blankenburg, Rudolph","Blankenburg, Rudolph",4612-72 W. Girard Ave.,19131 - 4629,581-5505,O,Elementary School,K-5,347,1.0,District,39.97254530893952,-75.21515246867345
+126515001.0,7070.0,5150,"Bodine, William W.","Bodine, William W.",1101 North 4th St.,19123,351-7332,O,High School,9-12,477,1.0,District,39.96819495213955,-75.14306804594764
+126515001.0,5185.0,1290,"Hamilton, Andrew","Hamilton, Andrew",5640 Spruce St.,19139 - 3937,471-2911,O,Elem/Middle,K-8,717,1.0,District,39.95519536739782,-75.23548159769311
+126515001.0,6530.0,1340,"Lea, Henry C.","Lea, Henry C.",4700 Locust St.,19139 - 4416,471-2915,O,Elem/Middle,K-8,508,1.0,District,39.954136731504484,-75.21661805798963
+126515001.0,3647.0,2580,"Kirkbride, Elizabeth B.","Kirkbride, Elizabeth B.",1501 S. 7th St.,19147 - 6410,952-6214,O,Elem/Middle,K-8,407,1.0,District,39.92982823129093,-75.15609956692512
+126515001.0,3629.0,2370,"McDaniel, Delaplaine","McDaniel, Delaplaine",2100 Moore St.,19145 - 1933,952-6203,O,Elementary School,K-4,516,1.0,District,39.92938719782044,-75.18122603969478
+126515001.0,7228.0,2540,"Key, Francis Scott","Key, Francis Scott",2230 S. 8th St,19148 - 3101,952-6216,O,Elementary School,K-5,377,1.0,District,39.92089577736552,-75.16057128833907
+126515001.0,3613.0,1400,"Patterson, John M.","Patterson, John M.",7001  Buist Ave,19142 - 1727,492-6453,O,Elementary School,K-4,787,1.0,District,39.9163271965406,-75.23693438770432
+126515001.0,3728.0,6400,Widener Memorial,Widener Memorial,1450 West Olney ave.,19141,456-3015,O,Special Center,1-12,207,1.0,District,40.03724437719995,-75.147000277174
+126515001.0,6960.0,4480,Overbrook Educational Center,Overbrook Ed Ctr,6730-38 Lansdowne Ave,19151 - 3625,351-7018,O,Elem/Middle,1-8,292,1.0,District,39.97383085668946,-75.25480890354748
+126515001.0,3766.0,8270,"Holme, Thomas","Holme, Thomas",9120 Acamdemy Rd.,19114 - 2841,335-5656,O,Elementary School,K-5,443,1.0,District,40.05504784516005,-75.0094643238026
+126515001.0,3709.0,6220,"Emlen, Eleanor C.","Emlen, Eleanor C.",6501 Chew Ave.,19119 - 2006,951-4010,O,Elementary School,K-5,600,1.0,District,40.054125851697066,-75.17811609855005
+0.0,0.0, ,"Kinsey, John L.","Kinsey, John L.",6501 Limekiln Pike,19138 - 3102, ,C, , ,0,4.0,District,40.05359400452635,-75.15246974509711
+126515001.0,6768.0,8140,"Meehan, Austin","Meehan, Austin",3001 Ryan Ave.,19152,335-5654,O,Middle School,6-8,1020,1.0,District,40.04580713304767,-75.04429912825114
+126515001.0,3773.0,8340,"Solis-Cohen, Solomon","Solis-Cohen, Solomon",7001 Horrocks St.,19149 - 1743,728-5012,O,Elementary School,K-5,894,1.0,District,40.04476282136823,-75.06542386643711
+126515001.0,7232.0,7350,"Lowell, James R.","Lowell, James R.",450 W. Nedro,19120 - 1871,276-5272,O,Elementary School,K-4,1059,1.0,District,40.040299523315355,-75.12909613153951
+126515001.0,3749.0,7390,"Morrison, Andrew J.","Morrison, Andrew J.",5100 N. 3rd St.,19120 - 3311,456-3004,O,Elem/Middle,K-8,901,1.0,District,40.029483650926906,-75.12959404138607
+126515001.0,3727.0,6390,"Steel, Edward","Steel, Edward",4301 Wayne Ave.,19140 - 1717,456-3008,O,Elementary School,K-5,578,1.0,District,40.018805385437844,-75.15699624167762
+126515001.0,6767.0,7730,"Clemente, Roberto","Clemente, Roberto",122 W Erie Ave,19140,291-5400,O,Middle School,5-8,1325,1.0,District,40.00610409029504,-75.12946177678859
+126515001.0,3755.0,7440,"Taylor, Bayard","Taylor, Bayard",3698 North Randolph St.,19140 - 4538,227-4435,9,Elementary School,K-4,529,1.0,District,40.00693213325092,-75.13825477597635
+126515001.0,7522.0,5680,Munoz-Marin Luis,Munoz-Marin Luis,3300 N. 3rd St.,19142 - 5721,291-8825,O,Elem/Middle,K-8,933,1.0,District,40.00182648858921,-75.13566955476176
+126515001.0,5121.0,5390,Potter-Thomas,Potter-Thomas,3001-65 N 06th St.,19133 - 2824,227-4423,O,Elem/Middle,K-8,626,1.0,District,39.99744239809258,-75.14065538889386
+126515001.0,3702.0,5410,"Sheppard, Isaac","Sheppard, Isaac",120 W Cambria.St,19133 - 4132,291-4711,O,Elementary School,K-4,363,1.0,District,39.99369918016992,-75.13165354678335
+0.0,0.0, ,"Willard, Frances","Willard, Frances",1930 E. Elkhart St.,19134, ,C, , ,0,4.0,District,39.99314784205724,-75.11676592800883
+0.0,0.0, ,"Stanton, M. Hall","Stanton, M. Hall",2539 N 16th St,19132 - 3907, ,C, , ,0,4.0,District,39.99194357636416,-75.15812945855403
+126519392.0,8257.0,5100,Memphis Street Academy CS @ JP Jones,Memphis CS @ JP Jones,2950 Memphis St.,19134,(215)291-4709,O,Middle School,5-8,1016,2.0,Charter,39.98630894766815,-75.11293456170567
+126515001.0,3664.0,4240,"Cassidy, Lewis C.","Cassidy, Lewis C.",6523  Landsdowne Ave.,19151 - 3315,581-5506,O,Elementary School,K-5,725,1.0,District,39.97516453287582,-75.2506964922906
+0.0,0.0,1450,PYDA @ ES Miller,PYDA,4300  Westminister Ave.,19104,581-5509,O,Remedial Discipline,9-12,129,1.0,District,39.96932879443916,-75.21050439839067
+126515001.0,3851.0,2010,Franklin Benjamin HS,Franklin Benjamin HS,550 North Broad St.,19130,299-4662,O,High School,9-12,1153,1.0,District,39.963525162001666,-75.16193474522737
+126515001.0,3659.0,2730,"Washington, George (EL)","Washington, George (EL)",1198 S 05th St.,19147 - 5203,952-6209,O,Elem/Middle,K-8,359,1.0,District,39.93379665658829,-75.15289881710102
+126515001.0,7664.0,2410,"Girard Academic Music Program (Poe, Edgar Allen)",Gamp,22nd & Ritner St.,19145,952-8590,O,Middle/High,5-12,488,1.0,District,39.922019338802926,-75.18304215515325
+126515001.0,3618.0,2210,Bache / Martin,Bache / Martin,2201 Brown St.,19130 - 1906,684-5074,O,Elem/Middle,K-8,522,1.0,District,39.9701812764125,-75.17445281072824
+126515001.0,4726.0,8430,"Greenberg, Joseph","Greenberg, Joseph",600 Sharon La.,19115 - 3527,961-2002,O,Elem/Middle,K-8,633,1.0,District,40.095679260679155,-75.05744846696574
+126515001.0,6825.0,8320,"La Brum, General J. Harry","La Brum, General J. Harry",10800 Hawley St.,19154,281-2607,O,Middle School,6-8,380,1.0,District,40.080702382421315,-74.9878482048175
+126515001.0,3714.0,6270,"Jenks, John S.","Jenks, John S.",8301 Germantown Ave.,19118 - 3403,248-6604,O,Elem/Middle,K-8,504,1.0,District,40.074918182402754,-75.20327958651389
+126515001.0,7253.0,8120,"Wilson, Woodrow","Wilson, Woodrow",1800 Cottman Ave.,19111,728-5015,O,Middle School,6-8,1141,1.0,District,40.052387381111416,-75.06915040876804
+126515001.0,3770.0,8310,"Moore, J. Hampton","Moore, J. Hampton",6900 Summerdale Ave.,19111 - 4520,728-5011,O,Elementary School,K-5,937,1.0,District,40.049182072368296,-75.07696695375907
+126515001.0,3861.0,6040,Saul W B Agricultural School,"Saul, Walter B. 
+Saul, Walter B. (CTE)",7100 Henry Ave.,19128,487-4467,O,High School,9-12,611,1.0,District,40.04917642255164,-75.22229175802373
+126515001.0,3739.0,7270,"Finletter, Thomas K.","Finletter, Thomas K.",6101 N Front St.,19120 - 2038,276-5265,O,Elem/Middle,K-8,1050,1.0,District,40.04362906431623,-75.1191287640225
+126515001.0,3769.0,8300,Mayfair,Mayfair,3001 Princeton Ave,19149 - 1413,335-5651,O,Elem/Middle,K-8,710,1.0,District,40.0393290032189,-75.0518898791549
+0.0,0.0, ,Germantown High School,Germantown HS,40 E. High St.,19144, ,C, , ,0,4.0,District,40.039972982042755,-75.17639693460126
+126515001.0,3763.0,8240,"Disston, Hamilton","Disston, Hamilton",6801 Cottage St.,19135 - 2243,335-5661,O,Elem/Middle,K-8,849,1.0,District,40.02827517470171,-75.04676479563985
+126515001.0,3753.0,7430,"Sullivan, James J.","Sullivan, James J.",5300 Ditman St.,19124,537-2524,O,Elementary School,K-5,692,1.0,District,40.01591225649584,-75.06673776471726
+126515001.0,3849.0,5020,"Edison, Thomas A.","Edison, Thomas A.",151 W. Luzerne St.,19140,324-9440,O,High School,9-12,2518,1.0,District,40.012566230023495,-75.12831288037611
+126515001.0,3742.0,7300,"Hopkinson, Francis","Hopkinson, Francis",1301-31 E Luzerne St,19124 - 5300,537-2526,O,Elem/Middle,K-8,1089,1.0,District,40.008420049477635,-75.10218961748852
+126515001.0,3786.0,4270,"Dick, William","Dick, William",2498 W. Diamond St.,19121 - 1311,684-5081,O,Elem/Middle,K-8,334,1.0,District,39.986621896562085,-75.173647398393
+126515001.0,3616.0,1440,Penrose,Penrose,2515 South 78th St.,19153 - 1201,492-6455,O,Elementary School,K-6,616,1.0,District,39.907467046443465,-75.24833084904206
+126515001.0,3708.0,6210,"Edmonds, Franklin S.","Edmonds, Franklin S.",8025 Thouron Ave.,19150 - 2424,276-5261,O,Elementary School,K-5,647,1.0,District,40.07309662736727,-75.17102881721266
+126515001.0,6539.0,6350,"Pennypacker, Samuel","Pennypacker, Samuel",1850 E. Washington Lane,19138 - 1228,276-5271,O,Elementary School,K-5,560,1.0,District,40.0651116465855,-75.15909990566819
+126515001.0,3801.0,8410,"Pollock, Robert B.","Pollock, Robert B.",2951 Welsh Rd.,19152 - 2136,961-2004,O,Elementary School,K-5,545,1.0,District,40.05952970269871,-75.02706840669946
+126515001.0,3743.0,7320,"Howe, Julia Ward","Howe, Julia Ward",5800 N 13th St.,19141 - 4121,276-5270,O,Elementary School,K-5,338,1.0,District,40.041462546497144,-75.1423229700947
+126515001.0,3764.0,8250,"Forrest, Edwin","Forrest, Edwin",7300 Cottage St.,19136 - 4021,335-5652,O,Elementary School,K-5,857,1.0,District,40.034648833432925,-75.03606904369951
+126515001.0,3750.0,7400,Olney Elementary,Olney Elementary,5301 N. Water Street,19120 - 3246,456-3003,O,Elem/Middle,K-8,733,1.0,District,40.03108854361063,-75.12087264896512
+126515001.0,5294.0,6470,"Kelly, John B.","Kelly, John B.",5116 Pulaski Ave.,19144 - 4022,951-4011,O,Elementary School,K-4,671,1.0,District,40.024998578950445,-75.1726361566251
+126515001.0,3850.0,7010,Frankford High School,Frankford HS,5000 Oxford Ave.,19124,537-2519,O,High School,9-12,2197,1.0,District,40.02170754446389,-75.0851518256627
+126515001.0,3744.0,7330,"Lawton, Henry W.","Lawton, Henry W.",6100 Jackson St.,19135 - 3614,335-5659,O,Elementary School,K-5,704,1.0,District,40.020264076952955,-75.05858684617817
+126515001.0,4963.0,7290,"Stearne, Allen M.","Stearne, Allen M.",1655 Unity St.,19124 - 4047,537-2522,O,Elementary School,K-5,467,1.0,District,40.01197028392094,-75.08512941723482
+126515001.0,3720.0,6320,"Mifflin, Thomas","Mifflin, Thomas",3624 Conrad St.,19129 - 1632,951-4007,O,Elem/Middle,K-8,248,1.0,District,40.01326957245691,-75.19191041389828
+126515001.0,3795.0,4310,Kenderton,Kenderton,3400 N 15th St,19140 - 5012,227-4412,O,Elem/Middle,K-8,637,1.0,District,40.00555477033287,-75.154201258243
+0.0,0.0, ,"Whittier, John","Whittier, John",3001 N. 27th St.,19132 - 1215, ,C, , ,0,4.0,District,40.00223426394652,-75.17355773811023
+126515001.0,7255.0,4140,Strawberry Mansion,Strawberry Mansion,3133 Ridge Ave.,19132,684-5089,O,High School,9-12,931,1.0,District,39.99031068984966,-75.18414861759682
+126515001.0,3857.0,4020,Overbrook High School,Overbrook HS,5898 Lancaster Ave.,19131,581-5507,O,High School,9-12,1934,1.0,District,39.98097160767391,-75.23833222591709
+126515001.0,3614.0,1410,"Rhoads, James","Rhoads, James",4901 Parrish St.,19139 - 1721,581-5504,O,Elementary School,K-5,485,1.0,District,39.96741711957077,-75.21972698239496
+126515001.0,5186.0,2470,"Greenfield, Albert M.","Greenfield, Albert M.",2200 Chestnut,19103 - 4307,299-3566,O,Elem/Middle,K-8,680,1.0,District,39.95218993132152,-75.17768471517319
+0.0,0.0, ,"Wilson, Alexander","Wilson, Alexander",1300 South 46th St.,19143 - 3804, ,C, , ,0,4.0,District,39.94466672634925,-75.2087520761178
+126515001.0,3782.0,1260,"Comegys, Benjamin B.","Comegys, Benjamin B.",5001 Greenway Ave.,19143 - 5109,727-2162,O,Elementary School,K-5,342,1.0,District,39.94087316696948,-75.21640866778063
+126515001.0,3649.0,2380,"Meredith, William M.","Meredith, William M.",725 South 5th St.,19147 - 3043,351-7360,O,Elem/Middle,K-8,401,1.0,District,39.939594842029194,-75.15067794577057
+126515001.0,6996.0,2020,Creative and Performing Arts,Creative & Performing Arts,901 S. Broad St.,19147,952-2462,O,High School,9-12,652,1.0,District,39.93934132927793,-75.16529499984223
+126515001.0,3622.0,2260,"Childs, George W.","Childs, George W.",1599 Wharton St.,19146 - 4716,952-6213,O,Elementary School,K-4,430,1.0,District,39.934882967655675,-75.17044063670062
+126515001.0,3654.0,2640,Southwark,Southwark,1835 S. 9th St.,19148 - 1661,952-8606,O,Elem/Middle,K-8,534,1.0,District,39.92592050206194,-75.15989062235494
+126515001.0,3832.0,1130,"Tilden, William","Tilden, William",6601 Elmwood Ave,19142,492-6454,O,Middle School,5-8,1050,1.0,District,39.92147833850629,-75.23245314979754
+126515001.0,7227.0,2520,"Jenks, Abram","Jenks, Abram",2501 S 13th St.,19148 - 4305,952-6224,O,Elementary School,K-4,402,1.0,District,39.918885100184916,-75.16834695393472
+126515001.0,3843.0,6050,Girls High School,Girls HS,1400 West  Olney Ave.,19141,276-5258,O,High School,9-12,1196,1.0,District,40.03830801965018,-75.14606916921808
+126515001.0,3803.0,8400,"Frank, Anne","Frank, Anne",2000 Bowler St.,19115 - 3319,961-2005,O,Elementary School,K-5,907,1.0,District,40.08793514811219,-75.02843249480159
+126515001.0,6765.0,7490,Prince Hall,Prince Hall,6101-67 N Gratz,19141 - 1401,276-5255,O,Elementary School,K-5,546,1.0,District,40.047698701906434,-75.14933913224414
+126515001.0,6529.0,8210,"Brown, Joseph H.","Brown, Joseph H.",3600 Stanwood St.,19136 - 2357,335-5650,O,Elementary School,K-5,491,1.0,District,40.04336740705352,-75.02474605160602
+126515001.0,7231.0,7280,Franklin Benjamin Elementary School,Franklin Benjamin Elem Sc,5735 Rising Sun Ave.,19120 - 1629,728-5017,O,Elem/Middle,K-8,1174,1.0,District,40.0422942936313,-75.10401677386412
+126515001.0,3722.0,6340,"Pennell, Joseph","Pennell, Joseph",1800 Nedro Aves.,19141 - 1324,276-5267,O,Elementary School,K-5,420,1.0,District,40.043284826756775,-75.15091969603293
+126515001.0,3848.0,6010,Central,Central,1700 W Olney Ave.,19141 - 1105,276-5262,O,High School,9-12,2315,1.0,District,40.037429167390556,-75.15025728491915
+126515001.0,3731.0,6430,"Wister, John","Wister, John",67 E. Bringhurst St.,19144 - 2338,951-4003,O,Elementary School,K-6,479,1.0,District,40.0333983276468,-75.16709242045502
+126513200.0,7579.0,3320,Imani Education Circle Charter School,Imani Education Circle CS,"5612 Greene Street, 2nd Floor",19144,215-713-9240,O,Elem/Middle,K-8,466,2.0,Charter,40.03364001224607,-75.17633452321549
+126513020.0,7548.0,3314,West Oak Lane Charter School,West Oak Lane CS,7115 Stenton Avenue,19138,215-927-7995,O,Elem/Middle,K-8,662,2.0,Charter,40.05945117137244,-75.16355102125009
+126510001.0,7677.0,3360,Russell Byers Charter School,Russell Byers CS,1911 Arch Street,19103,215-972-1700,O,Elementary School,K-6,344,2.0,Charter,39.955732923760685,-75.17165326814019
+126513440.0,7665.0,3333,Esperanza Academy Charter School,Nueva Esperanza Acad CS,301 W. Hunting Park Avenue,19140,215-457-3667,O,High School,9-12,563,2.0,Charter,40.0150084471974,-75.13290832751412
+126515001.0,3630.0,4570,"Meade, General George G.","Meade, General George G.",1600 N 18th St.,19121 - 3232,684-5062,O,Elem/Middle,K-8,554,1.0,District,39.9784040749913,-75.16498368396266
+126515001.0,5187.0,4300,"Heston, Edward","Heston, Edward",1621 N. 54th St.,19131 - 4002,581-5514,O,Elem/Middle,K-8,478,1.0,District,39.977755546634654,-75.22931179994744
+126515001.0,7905.0,2670,Constitution HS,Constitution HS,18 S 7th St,19106,215-351-7310,O,High School,9-12,380,1.0,District,39.95028112907259,-75.15245278699513
+0.0,0.0, ,"Peirce, Thomas M.","Peirce, Thomas M.",2300 W Cambria St,19132 - 2025, ,C, , ,0,4.0,District,39.998423517468495,-75.16821980416192
+126515001.0,7023.0,4030,"Carver, George Washington, Engineering and Science","Carver, George Washington, Engg. & Sci.",1600 W Norris St,19121,684-5079,O,High School,9-12,683,1.0,District,39.98340826853495,-75.16132997547822
+126515001.0,7244.0,5110,Penn Treaty,Penn Treaty,600 E. Thompson St,19125,291-4715,O,Middle School,6-8,683,1.0,District,39.972650680020934,-75.12712988178981
+126515001.0,3804.0,1460,"Anderson, Add B.","Anderson, Add B.",1034 South 60th St.,19143 - 2343,471-2903,O,Elem/Middle,K-8,431,1.0,District,39.946907749882314,-75.24503814182683
+126515001.0,3798.0,1370,"Mitchell, Weir","Mitchell, Weir",5500 Kingsessing Ave,19143 - 5329,727-2160,O,Elementary School,K-5,531,1.0,District,39.936785101651374,-75.22326841221943
+126515001.0,6535.0,1380,"Morton, Thomas G.","Morton, Thomas G.",2501 S. 63rd St.,19142 - 3101,727-2164,O,Elementary School,K-4,806,1.0,District,39.92395132681713,-75.22692841598536
+126515001.0,7855.0,5550,Kensington Culinary Arts,Kensington Culinary Arts,2445-63 Emerald St.,19125,291-5185,O,High School,9-12,378,1.0,District,39.984855319265144,-75.12858777634737
+126515001.0,7904.0,2620,Academy at Palumbo,Acad at Palumbo,1100  Catharine St,19147,351-7618,O,High School,9-12,717,1.0,District,39.9401080754638,-75.16167265454712
+0.0,0.0, ,Communications Technology High School,Communications Tech HS,8110 Lyons Ave.,19153, ,C, , ,0,4.0,District,39.89875004803434,-75.24592277730935
+0.0,0.0, ,"Fulton, Robert","Fulton, Robert",60 East Haines st.,19144 - 2114, ,C, , ,0,4.0,District,40.03951107150057,-75.17511451318356
+126515001.0,3725.0,6380,Shawmont,Shawmont,535 Shawmont Ave,19128 - 4032,487-4466,O,Elem/Middle,K-8,652,1.0,District,40.051593563057274,-75.23864600853383
+126515001.0,6823.0,5430,"AMY, at James Martin","AMY, at James Martin",Richmond and Ontario Sts,19134,291-4172,O,Middle School,6-8,392,1.0,District,39.985383038046095,-75.09731197599227
+126515001.0,5120.0,5300,"Hackett, Horatio B.","Hackett, Horatio B.",2161 E York St,19125 - 2141,291-4706,O,Elementary School,K-6,517,1.0,District,39.98114613341642,-75.12653281982593
+126515001.0,7245.0,1100,"Sayre, William","Sayre, William",5800  Walnut St.,19139,471-2904,O,High School,9-12,649,1.0,District,39.95756787647053,-75.23864700300746
+126515001.0,3807.0,1330,"Huey, Samuel B.","Huey, Samuel B.",400 S 52nd St,19143 - 4111,471-2901,O,Elem/Middle,K-8,827,1.0,District,39.95343155121339,-75.227160086426
+126515001.0,3617.0,2200,"Alcorn, James","Alcorn, James",1500 S 32ND st,19146 - 3301,952-6219,O,Elem/Middle,K-8,788,1.0,District,39.935097041771606,-75.19784214895428
+126515001.0,8120.0,5030,Philadelphia Learning Academy North (Alt Ed at Hunting Park),Alt Ed Hunting Park,4224-50 N. Front St.,19140,267-331-3067,O,Middle/High,7-12,327,1.0,District,40.01545891327411,-75.12670524668523
+126515001.0,7815.0,1190,Motivation High School,Motivation HS,78th & Buist Ave.,19153,492-6451,O,High School,9-12,242,1.0,District,39.906585810494974,-75.24761418394036
+126515001.0,3719.0,6310,"McCloskey, John F.","McCloskey, John F.",8500 Pickering St.,19150 - 1028,248-6600,O,Elementary School,K-6,319,1.0,District,40.08111257364268,-75.17484379977391
+126515001.0,3717.0,6440,"Lingelbach, Anna L.","Lingelbach, Anna L.",6340 Wayne Ave.,19141 - 3113,951-4090,O,Elem/Middle,K-8,402,1.0,District,40.03741823624909,-75.18995391626787
+126515001.0,3718.0,6300,"Logan, James","Logan, James",1700 Lindley Ave.,19141 - 1545,456-3006,O,Elementary School,K-6,416,1.0,District,40.03052928111524,-75.15218592779974
+126515001.0,3645.0,5480,"Kearny, General Philip","Kearny, General Philip",601 Fairmount Ave.,19123 - 2701,351-7343,O,Elem/Middle,K-8,303,1.0,District,39.96391429130186,-75.14818489863544
+126515001.0,3693.0,5330,"Hunter, William","Hunter, William",2400-54 N Front St,19133,291-4710,O,Elem/Middle,K-8,489,1.0,District,39.98709781379218,-75.13229814949838
+126515001.0,7780.0,1050,Paul Robeson High School for Human Services,Paul Robeson HS,4125  Ludlow,19104,823-8207,O,High School,9-12,503,1.0,District,39.956975987923144,-75.2057029229267
+126515001.0,6548.0,5070,Parkway Northwest (New Covenant),Parkway Northwest (New Covenant),7500 Germantown Ave.,19139,248-6220,O,High School,9-12,427,1.0,District,40.06226878918437,-75.19704907754581
+126515001.0,5122.0,6410,Cook-Wissahickon,Cook-Wissahickon,531 Righter St.,19128 - 3739,487-4463,O,Elem/Middle,K-8,289,1.0,District,40.02260125041547,-75.20702440394582
+126519644.0,8259.0,4260,Mastery Charter School at Grover Cleveland,Master CS - Cleveland,3701 N 19th St,19140 - 3555,(215)277-5042,O,Elem/Middle,K-8,511,2.0,Charter,40.01109099495137,-75.15857156790396
+126515001.0,5292.0,4440,Allen Dr Ethel Sch,Allen Dr Ethel Sch,3200 W Lehigh Ave.,19132 - 1834,227-4404,O,Elementary School,K-6,421,1.0,District,39.99713410435552,-75.18400564250662
+126515001.0,6540.0,4390,"Pratt, Anna","Pratt, Anna",2200 N 22nd St.,19132 - 4501,684-5083,O,Elementary School,K-6,399,1.0,District,39.98870871756878,-75.16991942222828
+126515001.0,3625.0,4530,"Gideon, Edward","Gideon, Edward",2817 W.  Glenwood Ave.,19121 - 1810,684-5072,O,Elem/Middle,K-8,339,1.0,District,39.98437306730612,-75.18076695961751
+126515001.0,7808.0,5090,Parkway West,Parkway West,4725 Fairmount Ave,19139-3536,581-5510,O,High School,9-12,327,1.0,District,39.96485084702702,-75.21582316976219
+126515001.0,3847.0,1010,"Bartram, John","Bartram, John",2401 S 67th St,19142,492-6450,O,High School,9-12,1915,1.0,District,39.92193948956962,-75.23383820311814
+126515001.0,7903.0,1030,School of the Future,School of the Future,4021 Parkside Ave,19104,215-823-5500,O,High School,9-12,392,1.0,District,39.97530369879204,-75.20335582658744
+126515001.0,7368.0,7500,Feltonville School of Arts and Science,Feltonville Sch of Arts & Sci.,210 E Courtland St,19120,215-456-5603,O,Middle School,6-8,616,1.0,District,40.019375294784524,-75.12209499370236
+126515001.0,7811.0,6540,Lankenau,Lankenau,201 Spring Lane,19128,487-4465,O,High School,9-12,292,1.0,District,40.06239359660278,-75.25260923685357
+126515001.0,3706.0,6200,"Day, Anna Blakiston","Day, Anna Blakiston",6324-42 Crittenden St,19138 - 1037,276-5250,O,Elem/Middle,pre K-8,436,1.0,District,40.05865949045573,-75.16865138440009
+126515001.0,7234.0,8350,"Spruance, Gilbert","Spruance, Gilbert",6401 Horrocks St,19149 - 2816,537-2514,O,Elem/Middle,K-8,1285,1.0,District,40.03717276005432,-75.0726035292409
+126515001.0,3751.0,7310,Feltonville Intermediate School,Feltonville Intermediate Sch,238 E. Wyoming Ave.,19120,456-3012,O,Middle School,5-8,1106,1.0,District,40.0203539040161,-75.12098421686531
+126515001.0,7404.0,5490,Cayuga,Cayuga,4344-4358 N. 5th St,19140 - 2302,456-3167,O,Elementary School,K-5,445,1.0,District,40.01795509672745,-75.13519106762281
+126515001.0,5183.0,7510,"Bethune, Mary Mc Leod","Bethune, Mary Mc Leod",3303-61  Old York Rd.,19140,227-4433,O,Elem/Middle,K-8,654,1.0,District,40.003614074931214,-75.14772009273774
+126515001.0,3668.0,4280,"Gompers, Samuel","Gompers, Samuel",5701  Wynnefield Ave.,19131 - 1237,581-5503,O,Elementary School,K-6,409,1.0,District,39.992732307929096,-75.23813815772661
+126515001.0,3684.0,5210,"Brown, Henry A.","Brown, Henry A.",1946 E Sergeant St.,19125 - 1341,291-4717,O,Elementary School,K-6,440,1.0,District,39.98679014002377,-75.12770771938793
+126515001.0,3655.0,5560,Spring Garden,Spring Garden,1146 Melon St,19123 - 1964,684-5070,O,Elem/Middle,K-8,241,1.0,District,39.96503562715699,-75.15620930957269
+126515001.0,3805.0,2480,"Arthur, Chester A.","Arthur, Chester A.",800 S 20TH ST,19146 - 1329,875-5774,O,Elem/Middle,K-8,277,1.0,District,39.94185677781664,-75.17621879868783
+126515001.0,6533.0,1350,"Longstreth, William","Longstreth, William",5700 Willows Ave.,19143 - 4517,727-2158,O,Elem/Middle,K-8,405,1.0,District,39.940399439211035,-75.23266288631602
+126515001.0,7782.0,5080,Parkway Center City,Parkway Center City,540 N 13th St,19123,351-7095,O,High School,9-12,351,1.0,District,39.96279466932128,-75.1595603365279
+126515001.0,3816.0,7120,"Fels, Samuel","Fels, Samuel",5500 Langdon St,19124,215-537-2516,O,High School,9-12,1363,1.0,District,40.03644762159304,-75.0924652773311
+126513270.0,7586.0,3318,Freire Charter School,Freire CS,2027 CHESTNUT ST,19103,215-557-8555,O,High School,9-12,432,2.0,Charter,39.952454445065555,-75.17431178466637
+126513250.0,7584.0,3329,Young Scholars Charter School,Young Scholars CS,900 N Marshall St,19122,215-232-9727,O,Middle School,6-8,167,2.0,Charter,39.96771797619295,-75.1482154625072
+126512213.0,8227.0,3353,"Solomon Charter School, Inc.",Solomon CS,1209 Vine Street,19107,(215)569-9779,O,Middle/High,7-12,195,2.0,Charter,39.95790255106281,-75.15908818048946
+100510000.0,7744.0,3364,First Philadelphia Charter School for Literacy,First Phila CS for Literacy,4300 Tacony St,19124,215-743-3100,O,Elem/Middle,K-8,644,2.0,Charter,40.007307526884986,-75.08228177089461
+108515107.0,7960.0,3392,Southwest Leadership Academy,Southwest Leadership Acad,7101 Paschall Ave,19142,215-729-1939,O,Elementary School,K-6,468,2.0,Charter,39.918190364925124,-75.24267781326678
+126510017.0,7826.0,3350,Khepera Charter School,Khepera CS,144 Carpenter Lane,19119,215-843-1700,O,Elem/Middle,K-8,455,2.0,Charter,40.05193844441974,-75.18952877352218
+126512960.0,7540.0,3313,"Preparatory CS of Math, Science Technology and Careers","Prep CS of Math, Sci Tech & Careers",1928 Point Breeze Ave,19145,215-334-6144,O,High School,9-12,606,2.0,Charter,39.928465480106695,-75.18661802757917
+126512850.0,7511.0,3302,Philadelphia Harambee Institute Charter School,Harambee CS,640 N 66th Street,19151,215-472-8770,O,Elem/Middle,K-8,440,2.0,Charter,39.973194033832364,-75.25201593140959
+126510003.0,7723.0,3363,Hope Charter School,Hope CS,2116 E Haines Street,19138,267-336-2730,O,High School,9-12,487,2.0,Charter,40.05624175104706,-75.15677766563567
+126513380.0,7639.0,3337,Global Leadership Academy Charter School,Global Leadership Acad CS,4601 W Girard Ave,19131,215-477-6672,O,Elem/Middle,K-8,707,2.0,Charter,39.97324915269725,-75.21556702390076
+0.0,0.0,3327,Laboratory Charter School of Communications/Design (Annex),Laboratory CS of Comm/Design (Annex),5339 Lebanon Ave,19131,215-877-9880,O,Elem/Middle,3-8,0,2.0,Charter,39.987856537955906,-75.23146859453506
+126513480.0,7672.0,3332,Mariana Bracetti Academy Charter School,Mariana Bracetti Acad CS,2501 Kennsington Ave,19125,215-291-4436,O,Middle/High,6-12,1155,2.0,Charter,39.98715821194833,-75.12815543027622
+126510005.0,7748.0,3365,Green Woods Charter School,Green Woods CS,8480 Hagy's Mill Road,19128,215-482-6337,R,Elem/Middle,K-8,181,2.0,Charter,40.05568289905989,-75.25202274317662
+126510009.0,7737.0,3358,Philadelphia Electrical and Technology Charter School,Phila Electrical & Tech CS,1420-22 Chestnut St,19102,267-514-1823,O,High School,9-12,574,2.0,Charter,39.95068678950467,-75.16507565130321
+126512990.0,7543.0,3315,Alliance  for Progress Charter School,Alliance CS,1821-39 Cecil B. Moore Avenue,19121,215-232-4892,O,Elementary School,K-5,395,2.0,Charter,39.97982112135951,-75.16544606821581
+185515523.0,7981.0,3388,Boy's Latin of Philadelphia,Boy's Latin of Phila,5501 Cedar Ave,19143,215-387-5149,O,High School,9-12,500,2.0,Charter,39.951647677438956,-75.23343644802158
+104510394.0,8031.0,3395,Antonia Pantoja Charter School,Antonia Pantoja CS,4101 N American St,19140,215-329-2733,O,Elem/Middle,K-8,729,2.0,Charter,40.01346589203749,-75.13073596343017
+126510014.0,7777.0,3366,Maritime Academy Charter School,Maritime Acad CS,2275 Bridge St,19137,215-535-4555,O,Middle/High,5-12,452,2.0,Charter,40.007298686456195,-75.0651297774092
+0.0,0.0,3377,Laboratory Charter School of Communications/Design (Annex),Laboratory CS of Comm/Design (Annex),5901 Woodbine Ave,19131,215-452-5580,O,Elementary School,K-1,0,2.0,Charter,39.98818089972701,-75.24304376065717
+126513280.0,7587.0,3322,Philadelphia Academy Charter School,Phila Acad CS,11000 Roosevelt Boulevard,19116,215-676-8320,O,Elem/Middle,K-8,698,2.0,Charter,40.10382446703212,-75.01005000945628
+0.0,0.0,3369,Christopher Columbus Charter School (Annex),Christopher Columbus CS (Annex),916 Christian St,19147,215-925-7400,O,Elementary School,K-5,0,2.0,Charter,39.9386082230515,-75.15865461706277
+126510002.0,7678.0,3361,Mastery Charter High School,Mastery CHS,35 S. 4th Street,19106,215-922-1902,O,Middle/High,7-12,403,2.0,Charter,39.94945265804553,-75.14713201761019
+126513400.0,7647.0,3336,Philadelphia Performing Arts Charter School,Phila Performing Arts Charter School,2600 S. Broad St,19145,215-551-4000,O,Elem/Middle,K-8,450,2.0,Charter,39.9179790949049,-75.17143499432392
+114514135.0,8083.0,3399,Sankofa Freedom Academy Charter School,Sankofa Freedom Acad CS,1640 Ruan St,19124,215-288-2001,O,Elem/Mid/High,K-12,591,2.0,Charter,40.00957947611744,-75.08809744467592
+182514568.0,7979.0,3389,Planet Abacus Charter School,Planet Abacus CS,6660 Keystone St,19135,215-332-2111,O,Elementary School,K-5,238,2.0,Charter,40.02175515035285,-75.04526766438849
+0.0,0.0,3387,Northwood Academy (Annex),Northwood Acad (Annex),4290 Penn St,19124,215-543-9980,O,Elem/Middle,K-8,0,2.0,Charter,40.01183186036291,-75.09108774399081
+126510008.0,7684.0,3359,Richard Allen Preparatory,Richard Allen Prep,2601 S 58th St,19143,215-878-1544,O,Middle School,5-8,460,2.0,Charter,39.92839342321396,-75.2185336778069
+151514721.0,7961.0,3393,Mastery Charter School at Pickett,Mastery/ CS at Pickett,5700-5812 Wayne Ave.,19144,866-9000,O,Middle/High,7-12,544,2.0,Charter,40.03188915895624,-75.1808760737245
+126510011.0,7775.0,3372,Discovery Charter School,Discovery CS,5070 Parkside Ave,19131,215-879-8182,O,Elem/Middle,K-8,450,2.0,Charter,39.98029745676115,-75.22149717535595
+126510006.0,7722.0,3357,West Philadelphia Achievement Charter Elememtary School,West Phila Achievement CS,111 N. 49th Street,19139,215-476-6471,O,Elementary School,K-5,318,2.0,Charter,39.96165561209482,-75.21856697779093
+126510010.0,7750.0,3368,Belmont Charter School,Belmont CS,4030-60 Brown St,19104 - 4844,215-823-8208,O,Elem/Middle,K-8,430,2.0,Charter,39.96686711596676,-75.20495561227676
+126510004.0,7685.0,3335,People for People Charter School,People for People CS,800 N Broad Street,19130,215-763-7060,O,Elem/Middle,K-8,546,2.0,Charter,39.968081248296514,-75.16069253507679
+126513450.0,7666.0,3331,Franklin Towne Charter High School,Franklin Towne CHS,5301 Tacony Street,19137,215-289-5000,O,High School,9-12,943,2.0,Charter,40.007876832192196,-75.06493164463605
+126513420.0,7649.0,3334,New Foundations Charter School,New Foundations CS,8001 Torresdale Avenue,19136,215-624-8100,O,Elem/Middle,K-8,422,2.0,Charter,40.034632357539806,-75.02423148941567
+126513190.0,7578.0,3317,"Charter High School for Architecture and Design
+",Architecture & Design CS,675 Sansom Street,19106,215-351-2900,O,High School,9-12,410,2.0,Charter,39.94882906097608,-75.15213610037023
+126510018.0,7829.0,3380,New Media Technology Charter School,New Media Tech CS,8034    THOURON         ST,19150,267-286-6900,O,High School,9-12,80,2.0,Charter,40.07268494087002,-75.17161077436265
+126510021.0,7857.0,3384,Folk Arts-Cultural Treasures Charter School,Folk Arts Treasures CS,1025 Callowhill St,19123,215-569-2600,O,Elem/Middle,K-8,479,2.0,Charter,39.95909695306975,-75.15622267042497
+171510293.0,7983.0,3391,Truebright Science Academy,Truebright Science Acad,926 W Sedgely Ave,19140,225-3437,O,Middle/High,7-12,307,2.0,Charter,40.00144543681592,-75.14527456172465
+126513490.0,7674.0,3340,Walter D Palmer Leadership Learning Partnership Charter School,Walter D Palmer CS,910 N 6th St,19123,627-7434,O,Elem/Mid/High,pre K-12,1024,2.0,Charter,39.967985013122664,-75.1473753139155
+173515368.0,7985.0,3394,Pan American Academy,Pan American Acad,144 W Dauphin St.,19133 - 3705,215-425-1212,O,Elem/Middle,K-8,728,2.0,Charter,39.9847520987106,-75.13403136117198
+126513210.0,7580.0,3326,Universal Institute Charter School,Universal Institute CS,801 S 15th Street,19146,215-732-2876,O,Elem/Middle,K-8,627,2.0,Charter,39.94084359021937,-75.16772433641043
+126510007.0,7724.0,3362,Wissahickon Charter School,Wissahickon CS,4700 G Wissahicken Avenue,19144,267-338-1020,O,Elem/Middle,K-8,322,2.0,Charter,40.01604813931266,-75.17130486732573
+126513160.0,7575.0,3306,Christopher Columbus Charter School,Christopher Columbus CS,1242-46 S 13TH ST,19147,215-389-6000,O,Middle School,5-8,780,2.0,Charter,39.93416938203069,-75.16561862276184
+126513230.0,7582.0,3321,"Mathematics, Civics and Sciences Charter School","Math, Civics & Sci CS",447 N Broad St,19123,215-923-4880,O,Elem/Mid/High,1-12,884,2.0,Charter,39.961125559618985,-75.16073635087415
+126512870.0,7513.0,3304,YouthBuild Charter School,YouthBuild CS,"1231 N. Broad Street, 3rd Floor",19122,215-627-8671,O,High School,12,208,2.0,Charter,39.972897000010974,-75.15863280586613
+126512860.0,7512.0,3303,World Communications Charter School,World Communications CS,512 S. Broad Street,19146,215-735-3198,O,Middle/High,6-12,458,2.0,Charter,39.94386534323284,-75.16579251582876
+0.0,0.0,3374,Alliance for Progress Charter School (Annex),Alliance CS (Annex),1600-06 Cecil B Moore Ave,19121,215-232-4892,O,Elementary School,K-1,0,2.0,Charter,39.97899509770821,-75.1613374541131
+126512840.0,7510.0,3301,Community Academy of Philadelphia Charter School,Community Acad of Phila CS,1100 E. Erie Avenue,19124,215-533-6700,O,Elem/Mid/High,K-12,1206,2.0,Charter,40.004597709900445,-75.1066217736503
+126513290.0,7588.0,3323,Hardy Williams Academy Charter School,Hardy Williams CS,1712 S. 56th Street,19143,215-724-2343,O,Elem/Middle,K-8,820,2.0,Charter,39.93713876162237,-75.22528836464146
+126513470.0,7671.0,3342,Delaware Valley Charter High School,Delaware Valley CHS,5201 Old York Rd,19141,215-455-2550,O,High School,9-12,567,2.0,Charter,40.03332220036375,-75.14493830528416
+0.0,0.0,3347,KIPP Philadelphia Elementary Academy (Annex),KIPP Philadelphia Elem Acad,2409 W Westmoreland St,19129,267-687-7283,O,Elementary School,K-2,225,2.0,Charter,40.00580900035438,-75.16854356607853
+0.0,0.0,3353,"KIPP DuBois Collegiate (Annex)
+KIPP DuBois Collegiate Academy","KIPP DuBois Collegiate Acad
+KIPP DuBois Colle*",2601 W Cumberland St,19107,267-687-4297,O,High School,9-12,270,2.0,Charter,39.993912970817945,-75.17550890989497
+326510558.0,0.0,8540,Philadelphia Prison Pennypack House,Pennypack House,7901 State Rd.,19136,215-685-7750,O,Remedial Discipline,9-12,41,1.0,District,40.02960794929897,-75.0177457886499
+126515001.0,7812.0,6070,Philadelphia Military Academy At Leeds,Military Acad At Leeds,1100 E. Mt Pleasant Ave.,19150,215-248-6602,R,High School,9-12,248,1.0,District,40.07103387706184,-75.17532329276898
+126515001.0,7906.0,2650,Science Leadership Academy (Franklin Institute),Science Leadership Acad (Franklin Ins),2130 Arch Street,19103,979-5620,O,High School,9-12,488,1.0,District,39.95576144075998,-75.17586000024195
+326518966.0,0.0,2530,Youth Study Center,Youth Study Ctr,3232 Henry Ave.,19129,(215)951-5681,O,Remedial Discipline,Ungraded,0,1.0,District,40.00945915584296,-75.18082795563208
+226518662.0,0.0, ,St Malachy School,St Malachy School,1409-17 N 11TH ST,19122,(215) 232-0696,O,Elem/Middle,K-8,194,3.0,Archdiocese,39.97410235996148,-75.1528129780105
+226518752.0,0.0, ,St Martin of Tours School,St Martin of Tours School,5400 E ROOSEVELT BLV,19124,(215) 533-3050,O,Elem/Middle,pre K-8,433,3.0,Archdiocese,40.03171166035477,-75.08675900729929
+226518332.0,0.0, ,St Katherine Siena School,St Katherine Siena Sch,9720-88 FRANKFORD AVE,19114,(215) 637-2181,O,Elem/Middle,K-8,549,3.0,Archdiocese,40.05991001318716,-74.99293219698704
+226518062.0,0.0, ,St Ignatius Loyola School,St Ignatius Loyola Sch,632-44 N 43RD ST,19104,215-473-5828,O,Elem/Middle,pre K-8,274,3.0,Archdiocese,39.96391411598554,-75.20952311403978
+0.0,0.0, ,St Nicholas of Tolentine School,St Nicholas of Tolentine Sch,902-22 Pierce St,19148, ,C, , ,0,4.0,Archdiocese,39.92738063768728,-75.16102289410513
+0.0,0.0, ,Student Education Center(Delaware Valley High School),Student Ed Ctr DVHS,13550   Bustleton Ave,19116, ,C, , ,0,4.0,Private,40.129135945632825,-75.01394598737903
+226517352.0,0.0, ,St Frances Cabrini Regional Catholic School,St Frances Cabrini,405 N 65th St,19151,(215)748-2994,O,Elem/Middle,K-8,267,3.0,Archdiocese,39.96951200549442,-75.24913590952649
+326510000.0,0.0, ,St Francis Homes for Boys,St Francis Homes for Boys,339 N 63rd Street,19139,(215)638-9310,O, , ,0,3.0,Archdiocese,39.9682099270119,-75.24517835136648
+226519242.0,0.0, ,St Pio Catholic Regional School,St Pio Catholic,1826 Pollock Street,19145,(215)467-5430,O,Elem/Middle,K-8,266,3.0,Archdiocese,39.9135616217129,-75.17828624720347
+300518675.0,0.0, ,"Sylvan Learning Center
+",Sylvan Lrn Ctr,6537 Roosevelt Blvd,19149,(215)743-6200,O,Tutoring,Ungraded,0,3.0,Private,39.94795712156828,-75.15152172236891
+300513270.0,0.0, ,Delta School,Delta School,3515 WOODHAVEN RD,19154,215-632-5904,O,Elem/Mid/High,K-12,56,3.0,Private,40.09266068613432,-74.97727226327294
+0.0,0.0, ,Norwood Fontbonne Academy (Annex),Norwood Fontbonne Acad,E Sunset Ave at Norwood,19118,215-247-3811,O,Elementary School,K-6,258,3.0,Private,40.08334343201893,-75.21625021691304
+226514502.0,0.0, ,Norwood Fontbonne MS,Norwood Fontbonne MS,8891 Germantown Ave,19118,215-247-3811,O,Middle School,7-8,91,3.0,Private,40.08050842500007,-75.21486307727666
+226511002.0,0.0, ,Chestnut Hill Academy,Chestnut Hill Acad,403 W SPRINGFIELD AVE,19118,(215) 247-4700,O,Elem/Mid/High,pre K-12,491,3.0,Private,40.061339963832935,-75.20945849174144
+226515802.0,0.0, ,Springside School,Springside School,8000 CHEROKEE ST,19118,(215) 247-7200,O,Elem/Mid/High,pre K-12,404,3.0,Private,40.06082127566781,-75.21283228280198
+0.0,0.0, ,Corinthian Christian Academy,Corinthian Christian Acad,6100 N 21st St,19138, ,C, , ,0,4.0,Private,40.04779056200532,-75.15598946448868
+0.0,0.0, ,Ivy Leaf School,Ivy Leaf School,629 Church Lane,19144, ,C, , ,0,4.0,Private,40.04191639155022,-75.16357823978736
+126513100.0,7564.0,3307,Eugenio Maria DeHostos Charter School,Eugenio Maria DeHostos CS,4322 N 05th St,19140,215-455-2300,O,Elem/Middle,K-8,209,2.0,Charter,40.017452289737406,-75.13497351833296
+126513070.0,7557.0,3308,Belmont Academy Charter School,Belmont Academy CS,907 North 41st Street,19104,215-386-5768,O,Elementary School,K-4,185,2.0,Charter,39.970732244332915,-75.2055509793296
+126513150.0,7574.0,3328,MAST Community Charter School,MAST Community CS,1800 E. Byberry Road,19116,267-348-1100,O,Elem/Mid/High,K-12,1138,2.0,Charter,40.113548058924586,-75.00621650800097
+0.0,0.0,3322,Philadelphia Academy Charter School (Annex),Phila Acad CS,1700 Tomlinson Rd,19116,215-673-3990,O,High School,9-12,484,2.0,Charter,40.10487496631188,-75.0171157012663
+177518712.0,8127.0,3397,Eastern University Academy Charter School,Eastern Univ Acad CS,"3300 Henry Ave., Ann Preston Hall",19129,267-440-3512,O,Middle/High,7-12,102,2.0,Charter,40.011395877476254,-75.18544315808153
+126513000.0,7546.0,3312,Multi-Cultural Academy Charter School,Multi-Cultural Acad CS,3821-33 N Broad St,19140,215-227-0513,O,High School,9-12,188,2.0,Charter,40.01143496198238,-75.15015389323364
+126510013.0,7776.0,3370,KIPP Philadelphia Charter School,KIPP Philadelphia CS,2709 N Broad St,19132,(215)227-1728,O,Middle School,5-8,345,2.0,Charter,39.99438309116168,-75.15377551735324
+126510022.0,7909.0,3383,Mastery Charter School at Shoemaker,Mastery CS at Shoemaker,5301 Media St,19131,267-296-7111,O,Middle School,7-12,316,2.0,Charter,39.97606657542779,-75.2284703828488
+126513510.0,7683.0,3341,Independence Charter School,Independence CS,500-12 S 16th St.,19146,215-238-8000,O,Elem/Middle,K-8,732,2.0,Charter,39.94486817863606,-75.16915099460753
+126513110.0,7565.0,3310,Laboratory Charter School of Communications and Languages,Laboratory CS of Comm & Lang,800 N Orianna St,19123,215-574-1680,O,Elem/Middle,K-8,446,2.0,Charter,39.963859050926544,-75.14392985777921
+126512980.0,7542.0,3309,Imhotep Institute Charter High School,Imhotep CHS,2101 W. Godfrey Avenue,19138,215-438-4140,O,High School,9-12,517,2.0,Charter,40.049272025039706,-75.15482816502403
+126510015.0,7825.0,3379,Ad Prima Charter School,Ad Prima CS,3560 Frankford Ave,19134,215-452-5580,O,Elementary School,K-6,433,2.0,Charter,39.99819073293422,-75.10186876409843
+126510019.0,7856.0,3386,Northwood Academy,Northwood Acad,4621 Castor Ave,19124-3024,215-289-5606,O,Elem/Middle,K-8,789,2.0,Charter,40.020409818865424,-75.0944983018551
+126510016.0,7828.0,3378,Philadelphia Montessori Charter School,Phila Montessori Charter School,2227 Island Ave,19142,215-365-4011,O,Elementary School,pre K-4,171,2.0,Charter,39.91657853492553,-75.24535348264052
+126515001.0,7024.0,6480,AMY Northwest (St. Terese),AMY Northwest (St. Terese),6611 Ardleigh St,19119,951-5200,O,Middle School,6-8,250,1.0,District,40.05960316071382,-75.17471724423943
+0.0,0.0,3351,Global Leadership Academy Charter School (Annex),Global Leadership Acad CS (Annex),7101 Pennway St,19111,267-236-1157,O,Elementary School,K-5,0,2.0,Charter,40.053505532326355,-75.07660960461678
+126510023.0,7910.0,2150,Mastery Charter School at Thomas,Mastery CS at Thomas,927 Johnson St.,19148,267-236-0036,O,Elem/Mid/High,K-12,347,2.0,Charter,39.91486347088074,-75.16346974618456
+172510793.0,8124.0,1160,KIPP West Philadelphia Preparatory,KIPP West Phila Prep,5900 Baltimore Ave.,19143,(215)294-2973,O,Middle School,5-8,360,2.0,Charter,39.944345708801706,-75.24216209475792
+226510452.0,0.0, ,Archbishop Ryan High School,Archbishop Ryan HS,11201 ACADEMY RD,19154,(215) 637-1800,O,High School,9-12,1616,3.0,Archdiocese,40.08518602883866,-74.98669574196998
+226518242.0,0.0, ,St Josaphat Ukrainian Cath School,St Josaphat Ukrainian Cath Sch,4521 LONGSHORE AVE,19135,(215) 332-8008,O,Elem/Middle,pre K-8,136,3.0,Archdiocese,40.02762121200886,-75.04363167584677
+0.0,0.0, ,St. Cyprian Sr,St. Cyprian Sr,6213 Cedar Ave,19143, ,C, , ,0,4.0,Archdiocese,39.953489479373225,-75.2478877513033
+226519022.0,0.0, ,St Monica Senior School,St Monica Sr,2500 S 16TH ST,19145,(215) 467-5338,O,Elem/Middle,pre K-8,452,3.0,Archdiocese,39.91932302516135,-75.17439954891582
+0.0,0.0, ,St William's Jr. High School,St William's Jr. HS,6201 Rising Sun Ave,19111, ,C, , ,0,4.0,Archdiocese,40.04720015271862,-75.09724681606244
