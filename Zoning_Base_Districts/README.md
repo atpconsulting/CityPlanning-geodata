@@ -4,9 +4,9 @@
 
 Boundaries of the City of Philadelphia Zoning Base Districts enacted December 15, 2011 and made effective August 22, 2012.  
   
-- Features updated:  06/12/2013  
-- Attributes updated: 06/12/2013  
-- Metadata updated  06/17/2013  
+- Features updated:  09/04/2014  
+- Attributes updated: 09/04/2014  
+- Metadata updated  09/04/2014  
 
 
 ### Description  
